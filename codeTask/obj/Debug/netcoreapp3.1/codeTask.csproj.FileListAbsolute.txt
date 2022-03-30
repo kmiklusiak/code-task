@@ -1,0 +1,13 @@
+C:\Users\kryst\source\repos\codeTask\bin\Debug\netcoreapp3.1\codeTask.exe
+C:\Users\kryst\source\repos\codeTask\bin\Debug\netcoreapp3.1\codeTask.deps.json
+C:\Users\kryst\source\repos\codeTask\bin\Debug\netcoreapp3.1\codeTask.runtimeconfig.json
+C:\Users\kryst\source\repos\codeTask\bin\Debug\netcoreapp3.1\codeTask.runtimeconfig.dev.json
+C:\Users\kryst\source\repos\codeTask\bin\Debug\netcoreapp3.1\codeTask.dll
+C:\Users\kryst\source\repos\codeTask\bin\Debug\netcoreapp3.1\codeTask.pdb
+C:\Users\kryst\source\repos\codeTask\obj\Debug\netcoreapp3.1\codeTask.csprojAssemblyReference.cache
+C:\Users\kryst\source\repos\codeTask\obj\Debug\netcoreapp3.1\codeTask.AssemblyInfoInputs.cache
+C:\Users\kryst\source\repos\codeTask\obj\Debug\netcoreapp3.1\codeTask.AssemblyInfo.cs
+C:\Users\kryst\source\repos\codeTask\obj\Debug\netcoreapp3.1\codeTask.csproj.CoreCompileInputs.cache
+C:\Users\kryst\source\repos\codeTask\obj\Debug\netcoreapp3.1\codeTask.dll
+C:\Users\kryst\source\repos\codeTask\obj\Debug\netcoreapp3.1\codeTask.pdb
+C:\Users\kryst\source\repos\codeTask\obj\Debug\netcoreapp3.1\codeTask.genruntimeconfig.cache
