@@ -1,0 +1,13 @@
+C:\Users\kryst\Documents\GitHub\code-task\code\bin\Debug\netcoreapp3.1\code.exe
+C:\Users\kryst\Documents\GitHub\code-task\code\bin\Debug\netcoreapp3.1\code.deps.json
+C:\Users\kryst\Documents\GitHub\code-task\code\bin\Debug\netcoreapp3.1\code.runtimeconfig.json
+C:\Users\kryst\Documents\GitHub\code-task\code\bin\Debug\netcoreapp3.1\code.runtimeconfig.dev.json
+C:\Users\kryst\Documents\GitHub\code-task\code\bin\Debug\netcoreapp3.1\code.dll
+C:\Users\kryst\Documents\GitHub\code-task\code\bin\Debug\netcoreapp3.1\code.pdb
+C:\Users\kryst\Documents\GitHub\code-task\code\obj\Debug\netcoreapp3.1\code.AssemblyInfoInputs.cache
+C:\Users\kryst\Documents\GitHub\code-task\code\obj\Debug\netcoreapp3.1\code.AssemblyInfo.cs
+C:\Users\kryst\Documents\GitHub\code-task\code\obj\Debug\netcoreapp3.1\code.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Documents\GitHub\code-task\code\obj\Debug\netcoreapp3.1\code.dll
+C:\Users\kryst\Documents\GitHub\code-task\code\obj\Debug\netcoreapp3.1\code.pdb
+C:\Users\kryst\Documents\GitHub\code-task\code\obj\Debug\netcoreapp3.1\code.genruntimeconfig.cache
+C:\Users\kryst\Documents\GitHub\code-task\code\obj\Debug\netcoreapp3.1\code.csprojAssemblyReference.cache
